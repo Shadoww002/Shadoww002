@@ -108,19 +108,14 @@ Real-world rash driving detection using gyroscope & accelerometer sensor data. T
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shadoww002&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadoww002&layout=compact&theme=tokyonight" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shadoww002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&count_private=true"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadoww002&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=3b82f6&text_color=9ca3af&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Shadoww002&theme=tokyonight&hide_border=true&background=090d16&stroke=3b82f6&ring=3b82f6&fire=f97316&currStreakLabel=3b82f6&sideLabels=9ca3af&dates=6b7280" width="55%"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shadoww002&theme=tokyonight" />
+</p>
 
 ---
 
