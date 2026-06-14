@@ -118,17 +118,6 @@ Real-world rash driving detection using gyroscope & accelerometer sensor data. T
 </p>
 
 ---
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Shadoww002&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=8b5cf6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## Contribution Activity
 
