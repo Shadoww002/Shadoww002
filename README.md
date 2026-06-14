@@ -118,6 +118,41 @@ Real-world rash driving detection using gyroscope & accelerometer sensor data. T
 </p>
 
 ---
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Shadoww002&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=8b5cf6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shadoww002&bg_color=0d1117&color=a78bfa&line=6366f1&point=8b5cf6&area=true&hide_border=false&border_color=6366f1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadoww002/Shadoww002/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shadoww002/Shadoww002/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Shadoww002/Shadoww002/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
 
 ## 🏆 Certifications & Achievements
 
